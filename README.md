@@ -15,8 +15,7 @@ similarity judgements and concept categorization, outperforming the state of the
 
 
 ## <sub> code TBA soon </sub>
-#
-#
+
 ![diagram-1](https://github.com/mdimiccoli/HM-SGE/blob/7d3a1d877af6eb02247030500390376182546442/diagram-1.png)
 
 ## Citation
